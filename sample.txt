@@ -1,0 +1,52 @@
+body {
+    background-color:rgb(128, 82, 157);
+    margin: 0;
+    padding: 0;
+}
+<table>
+                <tr>
+                <th style="position: absolute;left: 50px;">Product</th>
+                <th style="position: absolute;left: 300px;">Resources</th>
+                <th style="position: absolute;left: 550px;">Community</th>
+                <th  style="position: absolute;left: 800px;">Support</th>
+             <th  style="position: absolute;left: 1050x;">Company</th>
+            </tr>
+            <tr>
+                <td style="position: absolute;left: 40px;">Iconic Design</td>
+                <td style="position: absolute;left: 200px;">Blog</td>
+                <td style="position: absolute;left: 360px;">Twitter</td>
+                <td  style="position: absolute;left: 520px;">My Account</td>
+                <td style="position: absolute;left: 640px;">Privacy Policy</td>
+            </tr>
+            <tr>
+                <td style="position: absolute;left: 40px;">Logo Design</td>
+                <td style="position: absolute;left: 200px;">Support</td>
+                <td style="position: absolute;left: 360px;">Instagram</td>
+                <td  style="position: absolute;left: 520px;">Help & Support</td>
+                <td style="position: absolute;left: 640px;">Terms of Service</td>
+
+            </tr>
+            <tr>
+                <td style="position: absolute;left: 40px;">UI/UX Design</td>
+                <td style="position: absolute;left: 200px;">Newsletter</td>
+                <td style="position: absolute;left: 360px;">Stack</td>
+                <td  style="position: absolute;left: 520px;">Contact Us</td>
+                <td style="position: absolute;left: 640px;">Code of Conduct</td>
+
+
+            </tr>
+            </table>
+            footer table{
+    position: absolute;
+    
+  
+    border-collapse: separate;
+    border-spacing: 20px;
+  
+    
+   
+}
+footer table td{
+    padding: 2px; /* Optional: Add padding to the table cells for better spacing */
+    
+}
